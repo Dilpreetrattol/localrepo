@@ -1,4 +1,18 @@
-p {
-    color: red;
-    
+*{
+    font-family: 'Times New Roman', Times, serif;
 }
+h1{
+    color:rgb(211, 100, 250);
+    text-align: center;
+}
+#outter{
+    background-color: blue;
+    font-size: 25px;
+}
+#inner{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+}
+.heading{color: red;}
+button{background-color: green;}
